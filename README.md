@@ -1,7 +1,7 @@
 
 # Azure Architecture - Solution requirement considerations
 
-Blog post can be found here: [Azure Architecture - Solution Requirement Consideration Checklist](https://luke.geek.nz/azure/azure-architecture-solution-requirement-consideration-checklist/)
+
 
 Quick links for using the checklists in this repo:
 
